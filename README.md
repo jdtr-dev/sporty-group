@@ -2,6 +2,8 @@
 
 A React application for browsing and exploring sports leagues, built with React 19, TypeScript, Vite, and comprehensive unit testing using Jest and React Testing Library.
 
+This project was scaffolded and the unit tests were created with assistance from an AI coding tool.
+
 ## 📋 Project Overview
 
 This project provides a user-friendly interface to:
